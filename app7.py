@@ -16,7 +16,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Default Grok API Key (provided)
-DEFAULT_GROQ_API_KEY = "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"
+DEFAULT_GROQ_API_KEY = "Your API"
 GROQ_BASE_URL = "https://api.groq.com/openai/v1/chat/completions"
 WEATHER_BASE_URL = "http://api.weatherapi.com/v1"
 
